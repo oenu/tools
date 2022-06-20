@@ -1,15 +1,9 @@
 List of Useful Tools
 
-
-
-### Nodemon
-https://www.npmjs.com/package/nodemon
-> Automatically restarts node applications when file changes are detected
-
+## Generic
 ### Fuse
 https://www.npmjs.com/package/fuse.js
 > Lightweight fuzzy-search
-
 
 ### Mongoose
 https://www.npmjs.com/package/mongoose
@@ -44,3 +38,7 @@ https://www.npmjs.com/package/typesync
 https://www.npmjs.com/package/morgan
 > HTTP request logger middleware for node.js
 #node
+
+### Nodemon
+https://www.npmjs.com/package/nodemon
+> Automatically restarts node applications when file changes are detected
