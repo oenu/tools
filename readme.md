@@ -33,6 +33,10 @@ https://www.npmjs.com/package/typesync
 > Install missing TypeScript typings for dependencies in your package.json
 #node #typescript
 
+## Jim Blackers JSON tools
+https://tryjsonschematypes.appspot.com/#typescript
+> Convert Json Schema to Typescript
+
 ## Node
 ### Morgan
 https://www.npmjs.com/package/morgan
