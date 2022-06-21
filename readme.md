@@ -43,6 +43,11 @@ https://www.npmjs.com/package/morgan
 > HTTP request logger middleware for node.js
 #node
 
+### Pino
+https://www.npmjs.com/package/pino
+> Very low overhead Node.js logger
+
 ### Nodemon
 https://www.npmjs.com/package/nodemon
 > Automatically restarts node applications when file changes are detected
+
